@@ -9,6 +9,8 @@ A responsive e-commerce website for handmade crochet products.
 
 CrochetBloom is a front-end e-commerce website designed to showcase and sell handmade crochet products such as bouquets, flowers, keychains, plushies, and home décor items.
 
+Project Link - https://aryan-0039.github.io/CrochetBloom/
+
 ## Planned Features
 
 - Responsive Design
@@ -26,4 +28,4 @@ CrochetBloom is a front-end e-commerce website designed to showcase and sell han
 ## Author
 
 Aryan
-...
+
