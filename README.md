@@ -16,9 +16,6 @@ CrochetBloom is a front-end e-commerce website designed to showcase and sell han
 - Product Categories
 - Product Search
 - Shopping Cart
-- Product Detail Pages
-- Contact Form
-- Local Storage Support
 
 ## Technologies Used
 
